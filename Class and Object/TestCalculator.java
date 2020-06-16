@@ -5,7 +5,6 @@ public class TestCalculator {
     }
 
 }
-
 class Calculator
 {
     static double powerInt(int n1,int n2)
