@@ -4,9 +4,9 @@ public class Box {
 	int height;
 	int depth;
 	Box(int width1,int height1,int depth1){
-		width = width1;
-		height = height1;
-		depth = depth1;
+		this.width = width1;
+		this.height = height1;
+		this.sdepth = depth1;
 	}
 	int display(){
 		return width * height * depth;
